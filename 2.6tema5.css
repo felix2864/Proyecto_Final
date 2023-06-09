@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web&display=swap');
+
+body{
+    background-color: black;
+    color: #1cc9af;
+    font-family: 'Titillium Web', sans-serif;
+}
+
+.titulo{
+    text-align: center;
+    font-size: 40px;
+    margin-top: -5%;
+    font-family: 'Orbitron', sans-serif;
+}
+
+.btn{
+    margin-left: 2%;
+}
+
+.flecha{
+    width: 5%;
+    margin-bottom: 2%;
+    margin-left: -6%;
+    margin-top: 1%;
+}
+
+.flecha:hover{
+    transform: scale(1.1);
+}
+
+.textBtn{
+    font-size: 19px;
+    text-decoration: none;
+    color: #139ac9;
+}
+
+.tema{
+    margin-left: 15%;
+    margin-right: 15%;
+    border: 2px solid #2562af;
+    background-color: #2562af;
+    padding-left: 3%;
+    padding-right: 3%;
+    border-radius: 7px;
+    color: #3c1487;
+    font-size: 20px;
+}
+
+.P{
+    color: aquamarine;
+}
+
+h3{
+    text-align: center;
+    font-size: 30px;
+}
